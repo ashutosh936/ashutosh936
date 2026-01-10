@@ -67,7 +67,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashu37/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/ashutosh975/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:ashutosh.vishwakarma2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://github.com/ashutosh936"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
