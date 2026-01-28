@@ -36,7 +36,7 @@
 ---
 
 ## 🚀 Projects
-**MentoraX – Career Counseling Portal** *(Sep 2024 – Oct 2024)*  
+**MentoraX – Career Counseling Portal** *(Nov 2025 – Present)*  
 *React.js | Node.js | Express.js | MongoDB | JWT*  
 - Built a **secure platform** with JWT authentication & MongoDB.  
 - Developed **RESTful APIs** for appointments, feedback, and notifications.  
