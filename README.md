@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=190&section=header&text=⚡%20Ashutosh%20Vishwakarma%20⚡&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🎮 Leveling Up in Tech | 🚀 Full-Stack Developer | ☁️ Future DevOps Engineer</h3>
+<h3 align="center">🎮 Leveling Up in Tech | 🚀 Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&size=23&center=true&vCenter=true&width=650&lines=Keep+Learning.+Keep+Building.;Code.+Automate.+Scale.;MERN+%7C+Java+%7C+Cloud;Progress+Over+Perfection." />
